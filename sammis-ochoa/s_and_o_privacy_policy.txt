@@ -1,0 +1,8 @@
+Once given access, this application collects the latest six photos from
+the user's feed and displays them on a website.
+
+If the access is revoked, this application will stop collecting photos
+from the user's feed.
+
+This application does not use the Instagram API to collect any other
+data.
